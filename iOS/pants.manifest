@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3141663111
+CRC: 2443897573
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 453d39301e33ecd3726c2853c3da660e
+    Hash: d7cea043aec4a375fbe1524560d23acb
   TypeTreeHash:
     serializedVersion: 2
     Hash: 91e067c959fccef3316dad590c0f062c
@@ -22,6 +22,5 @@ Assets:
 - Assets/_Game/Data/Pant/Pant data 02.asset
 - Assets/_Game/Data/Pant/Pant data 01.asset
 - Assets/_Game/Data/Pant/Pant data 04.asset
-- Assets/_Game/Data/Pant/Pant data 05.asset
 - Assets/_Game/Data/Pant/Pant data 03.asset
 Dependencies: []
