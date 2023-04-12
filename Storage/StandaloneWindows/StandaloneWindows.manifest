@@ -1,22 +1,10 @@
 ManifestFileVersion: 0
-CRC: 809968377
+CRC: 3901158098
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: hair_01
+      Name: shirts
       Dependencies: {}
     Info_1:
-      Name: hair_02
-      Dependencies: {}
-    Info_2:
-      Name: hair_03
-      Dependencies: {}
-    Info_3:
-      Name: hair_04
-      Dependencies: {}
-    Info_4:
-      Name: hair_05
-      Dependencies: {}
-    Info_5:
-      Name: hair_06
+      Name: pants
       Dependencies: {}

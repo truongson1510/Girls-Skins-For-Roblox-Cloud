@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3663609012
+CRC: 1855388650
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 56b15d67bccc0d7fe6c3bc4b20e030a0
+    Hash: 1051fa4a1c83a3ca1f4213906702d427
   TypeTreeHash:
     serializedVersion: 2
     Hash: 731ab717a95b370c35dc372a271c691a
@@ -23,5 +23,9 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/_Game/Data/Hair/Hair data 02.asset
+- Assets/_Game/Data/Shirt/Shirt data 05.asset
+- Assets/_Game/Data/Shirt/Shirt data 01.asset
+- Assets/_Game/Data/Shirt/Shirt data 04.asset
+- Assets/_Game/Data/Shirt/Shirt data 03.asset
+- Assets/_Game/Data/Shirt/Shirt data 02.asset
 Dependencies: []
