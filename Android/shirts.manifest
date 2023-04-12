@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3574321968
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29a40b55b04c4b700a788ba9afbc5e77
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 731ab717a95b370c35dc372a271c691a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 47eac41603736e84a8d2cd81fb5fc2c2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Game/Data/Shirt/Shirt data 05.asset
+- Assets/_Game/Data/Shirt/Shirt data 01.asset
+- Assets/_Game/Data/Shirt/Shirt data 04.asset
+- Assets/_Game/Data/Shirt/Shirt data 03.asset
+- Assets/_Game/Data/Shirt/Shirt data 02.asset
+Dependencies: []

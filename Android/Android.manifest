@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3159848834
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: shirts
+      Dependencies: {}
+    Info_1:
+      Name: pants
+      Dependencies: {}
