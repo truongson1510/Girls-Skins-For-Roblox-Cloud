@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3030034038
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea91535e56e6bb45f889d1131ad11ea7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 731ab717a95b370c35dc372a271c691a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 47eac41603736e84a8d2cd81fb5fc2c2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Game/Data/Hair/Hair data 03.asset
+Dependencies: []
