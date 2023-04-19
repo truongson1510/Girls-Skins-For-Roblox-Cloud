@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2580283952
+CRC: 2131765857
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b2dc879a8bde0a18d31cedc329a2989f
+    Hash: 5f3eb4555f6da48232f02eb415ab2ea7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 91e067c959fccef3316dad590c0f062c
@@ -19,9 +19,9 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/_Game/Data/Pant/Pant data 04.asset
 - Assets/_Game/Data/Pant/Pant data 02.asset
 - Assets/_Game/Data/Pant/Pant data 01.asset
-- Assets/_Game/Data/Pant/Pant data 04.asset
 - Assets/_Game/Data/Pant/Pant data 05.asset
 - Assets/_Game/Data/Pant/Pant data 03.asset
 Dependencies: []
